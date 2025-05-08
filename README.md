@@ -1,4 +1,4 @@
-# Night Routine Tracker
+# Night Routine Tracker (Flutter APP)
 
 A sleek, dark-themed Flutter checklist app that helps you wind down your day with animated, toggle-style routine items.
 
