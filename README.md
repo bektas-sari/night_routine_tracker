@@ -31,7 +31,7 @@ A sleek, dark-themed Flutter checklist app that helps you wind down your day wit
 2. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/night_routine_tracker.git
+   git clone https://github.com/bektas-sari/night_routine_tracker.git
    cd night_routine_tracker
    ```
 
