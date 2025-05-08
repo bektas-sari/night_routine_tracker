@@ -69,8 +69,17 @@ Contributions are welcome! Please:
 
 ---
 
+## Contact
+
+Email: bektas.sari@gmail.com
+
+---
+
 ## 📄 License
 
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+This project is released under the MIT License. 
+
+
+
 
 
